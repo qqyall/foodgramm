@@ -30,6 +30,15 @@ const Technologies = () => {
               <li className={styles.textItem}>
                 Djoser
               </li>
+              <li className={styles.textItem}>
+                БД PostgreSQL
+              </li>
+              <li className={styles.textItem}>
+                Контейнеризация на Docker
+              </li>
+              <li className={styles.textItem}>
+                CI/CD с помощью Github Actions
+              </li>
             </ul>
           </div>
         </div>
